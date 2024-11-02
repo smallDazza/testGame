@@ -6,5 +6,11 @@ button {
     padding: 10px 20px;
     margin: 10px;
     background-color: aquamarine;
-    border: none;
+    border-radius: 6px;
 }
+
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
